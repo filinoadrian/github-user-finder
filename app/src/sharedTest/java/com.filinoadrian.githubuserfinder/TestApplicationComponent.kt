@@ -13,6 +13,7 @@ import javax.inject.Singleton
     modules = [
         AndroidSupportInjectionModule::class,
         ViewModelBuilder::class,
+        TestApplicationModule::class,
         SearchModule::class
     ]
 )
