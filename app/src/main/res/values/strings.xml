@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Github User Finder</string>
+    <string name="no_results_found">No results found</string>
+    <string name="offline_title">You\'re Offline</string>
+    <string name="offline_subtitle">Turn on cellular data or connect to Wi-Fi and try again</string>
+    <string name="ok">OK</string>
+    <string name="error_fetching_data">There is an error while fetching data from Github server</string>
 </resources>

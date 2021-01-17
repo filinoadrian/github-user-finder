@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.GithubUserFinder.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/work_sans</item>
+        <item name="android:textColor">?colorOnPrimary</item>
+    </style>
+
+    <style name="TextAppearance.GithubUserFinder.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/work_sans</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?colorOnPrimary</item>
+    </style>
+
+</resources>
